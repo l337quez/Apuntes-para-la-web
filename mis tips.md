@@ -25,6 +25,7 @@ http://www.mclibre.org/consultar/amaya/css/css-propiedades.html
 </br>
 #######################################################################################################
 </br>
+
 ## Margenes y Relleno
  class="m-t-30"   significa margen top de 30
  m=margen
