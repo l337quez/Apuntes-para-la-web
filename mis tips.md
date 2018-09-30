@@ -10,7 +10,21 @@ https://fontawesome.com/v4.7.0/
 ## Mensajes de Alerta con Sweet Alert
 https://sweetalert.js.org/guides/
 
+</br>
+#######################################################################################################
+</br>
 
+## Estilos CSS
+
+Si se te olvida crear el archivo de estilos en el componente de angular, en el componente ts se coloca la ruta, se cambia style por styleUrls: ['./notifications-list.component.css']
+
+## Comandos de CSS
+http://www.mclibre.org/consultar/amaya/css/css-propiedades.html
+
+
+</br>
+#######################################################################################################
+</br>
 ## Margenes y Relleno
  class="m-t-30"   significa margen top de 30
  m=margen
