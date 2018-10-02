@@ -8,7 +8,7 @@ https://themify.me/themify-icons
 https://fontawesome.com/v4.7.0/
 
 ### class="mdi mdi-settings"
-https://cdn.materialdesignicons.com/1.1.34/
+https://materialdesignicons.com/cdn/1.9.32/
 
 </br>
 #######################################################################################################
