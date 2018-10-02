@@ -7,9 +7,15 @@ https://themify.me/themify-icons
 ###  class="fa fa-facebook"
 https://fontawesome.com/v4.7.0/
 
+### class="mdi mdi-settings"
+https://cdn.materialdesignicons.com/1.1.34/
+
+</br>
+#######################################################################################################
+</br>
+
 ## Mensajes de Alerta con Sweet Alert
 https://sweetalert.js.org/guides/
-
 </br>
 #######################################################################################################
 </br>
