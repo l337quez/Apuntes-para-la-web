@@ -9,6 +9,7 @@ https://fontawesome.com/v4.7.0/
 
 ### class="mdi mdi-settings"
 https://materialdesignicons.com/cdn/1.9.32/
+Descargar :  https://github.com/Templarian/MaterialDesign-SVG
 
 ### class="fas fa-chevron-circle-left"
 https://fontawesome.com/icons/chevron-circle-left?style=solid&from=io
