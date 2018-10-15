@@ -1,5 +1,6 @@
 ## mostrar un componente dentro de otro
 <app-nombre_del_componente > </app-nombre_del_componente>
+Importante, para poder copartirlo debe estar en el modulo.
 
 </br>
 
