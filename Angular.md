@@ -2,7 +2,8 @@
 <app-nombre_del_componente > </app-nombre_del_componente>
 </br>
 
-Importante, para poder copartirlo debe estar en el modulo.
+Importante: para poder copartirlo debe estar en el modulo, es decir el componente donde se va mostrar debe tener
+un .module y en este debe tener importado el modulo donde se encuetra el componente que quiere llamar.
 
 </br>
 
