@@ -1,3 +1,7 @@
+## Como pasar datos
+Podremos pasar datos usando servicios, si solo queremos pasar una variable o algo minimo podemos usar @input
+
+
 ## mostrar un componente dentro de otro
 <app-nombre_del_componente > </app-nombre_del_componente>
 </br>
