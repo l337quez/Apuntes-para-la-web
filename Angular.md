@@ -26,6 +26,27 @@ donde tipo es la variable cualquiera, pero tipoLista es la variable @Input
 
 https://blog.ng-classroom.com/blog/angular/compartiendo-info-componentes/
 
+export class FollowedComponent implements OnInit {
+  lista: string[];
+  
+  constructor(
+    private router: Router  ) {
+  this.lista = [];
+  }
+
+  ngOnInit() {
+    
+    // Buscar lista de artistas
+    this._userService.getFollowed().subscribe(
+      resp => {
+      this.lista = resp.usuarios;
+        console.log(this.lista = resp.usuarios);
+      },
+
+      error => { console.log(error); });
+  }
+
+
 </br>
 </br>
 
