@@ -62,3 +62,37 @@ en el ts:
 nomFuncion(NombredelPdf) {
      const namepdf = NombredelPdf; 
  }
+
+</br>
+</br>
+
+## Unsafe value used in a resource URL context; Mostrando pdf
+
+Estaba mostrando un pdf de forma dinamica, dependiendo del nombre del pdf que llegara era el que iba a mostrar,
+pero me salio ese ERROR. Para solventar ese error hay que hacer lo que sale la imagen.
+
+</br>
+
+<img src="https://github.com/l337quez/Apuntes-para-la-web/blob/master/Angular/imagenes/Unsafe%20value%20used%20in%20a%20resource%20URL%20context.png">
+
+</br>
+
+En this.url, va la direccion del archivo que se quiere mostrar
+
+</br>
+</br>
+
+## Concatenar texto en html con variable de js
+
+Si por ejemplo queremos hacer una ruta concatenada, se hace asi: 
+
+</br>
+
+src="{{'assets/adminpro/mockPdf/'+rutaPdf}}"
+
+</br>
+</br>
+
+## Enviar una variable dentro de la funcion click a javascript
+
+(click)="enviarnombre(parti.documento)" 
