@@ -1,1 +1,9 @@
+## Instalacion de create-react-app
 
+usando Linux hay que poner permisos de sudo.
+npm install -g create-react-app
+
+## Creando la Aplicacion
+
+Le llamaremos cliente a la aplicacion
+create-react-app cliente
