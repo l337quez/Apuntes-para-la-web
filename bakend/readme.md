@@ -11,3 +11,8 @@ sudo systemctl start mongodb.service
 
 Ahora sin permisos, corremos mongodb, con el siguiente comando:
 mongo
+
+
+</br>
+<b> Proyecto</b>
+npm run all
