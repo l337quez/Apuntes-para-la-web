@@ -4,6 +4,7 @@ Este es un repositorio donde tengo una recopilacion de estilos, iconos, tips e i
 
 ### Excelentes recursos 
 
+Muchos recursos en este blog https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 https://mdbootstrap.com/angular/
 
 
